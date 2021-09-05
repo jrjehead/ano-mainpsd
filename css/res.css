@@ -1,0 +1,228 @@
+@media (min-width: 320px) and (max-width: 575px) { 
+
+.navbar-nav.ms-auto{
+	background:rgba(0,0,0,0.5);
+	text-align: center;
+}
+.navbar-toggler-icon{
+	padding: 1px 5px;
+	font-size: 18px;
+	line-height: 0.3;
+	background: #fff;
+}
+
+.ser-con h5{
+	font-size: 20px;
+	font-weight: 700;
+	color: #555555;
+	transition: all 0.3s;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.ser-con{
+	margin-bottom: 60px;
+ }
+ .amin{
+ 	display: block;
+ 	text-align: center;
+ }
+ .btn-baton{
+ 	text-align: center;
+ 	margin-top: 20px;
+ }
+ .btn-baton a{
+	display: inline-block;
+	background: #998675;
+	color: #fff;
+	padding: 5px 10px;
+	border:none;
+	outline: none;
+	border-radius: 3px;
+
+}
+.resph{
+	margin-bottom: 20px;
+}
+.res-dev{
+	display: block;
+	text-align: center;
+}
+.devic-contai{
+	margin-top: 54px;
+	margin-bottom: 60px;
+}
+.devic-contai h5 span{
+	padding:3px 7px;
+	background: #c8b39b;
+	color: #fff;
+	border-radius: 50%;
+	text-align: center;
+}
+.devic-contai h5{
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 25px;
+	text-align: left;
+	line-height: 40px;
+}
+.rowww{
+	display: block;
+}
+.rab{
+	margin-bottom: 60px;
+}
+.marss-20{
+	margin-bottom: 20px;
+}
+.fotter-par{
+	display: block;
+	text-align: center;
+}
+.rabbbbb{
+	margin-bottom: 10px;
+}
+}
+
+@media (min-width: 576px) and (max-width: 767px) { 
+
+.gala-con h3{
+font-size: 26px;
+color: #fff;
+font-weight: 500;
+z-index: 99;
+
+}
+.gala-con h1{
+font-size: 32px;
+color: #fff;
+font-weight: 700;
+margin-bottom: 5px;
+
+}
+.carousel-item{
+	height: 100vh;
+	min-height: 100px;
+	background: no-repeat scrool center scrool;
+	-webkit-background-size:cover;
+	background-size: cover;
+}
+.comn-btn a{
+	display: inline-block;
+	background: #998675;
+	color: #fff;
+	border:none;
+	outline: none;
+	padding: 5px 10px;
+	border-radius: 3px;
+	margin-top: 10px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom:90px;
+    left: 15%;
+    color: #fff;
+    text-align: center;
+}
+
+.navbar-nav.ms-auto{
+	background:rgba(0,0,0,0.5);
+	text-align: center;
+}
+.navbar-toggler-icon{
+	padding: 1px 5px;
+	font-size: 18px;
+	line-height: 0.3;
+	background: #fff;
+}
+
+.ser-con h5{
+	font-size: 20px;
+	font-weight: 700;
+	color: #555555;
+	transition: all 0.3s;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.ser-con{
+	margin-bottom: 60px;
+ }
+ .amin{
+ 	display: block;
+ 	text-align: center;
+ }
+ .btn-baton{
+ 	text-align: center;
+ 	margin-top: 20px;
+ }
+ .btn-baton a{
+	display: inline-block;
+	background: #998675;
+	color: #fff;
+	padding: 5px 10px;
+	border:none;
+	outline: none;
+	border-radius: 3px;
+
+}
+.resph{
+	margin-bottom: 20px;
+}
+.res-dev{
+	display: block;
+	text-align: center;
+}
+.devic-contai{
+	margin-top: 54px;
+	margin-bottom: 60px;
+}
+.devic-contai h5 span{
+	padding:3px 7px;
+	background: #c8b39b;
+	color: #fff;
+	border-radius: 50%;
+	text-align: center;
+}
+.devic-contai h5{
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 25px;
+	text-align: left;
+	line-height: 40px;
+}
+.rowww{
+	display: block;
+}
+.rab{
+	margin-bottom: 60px;
+}
+.marss-20{
+	margin-bottom: 20px;
+}
+.fotter-par{
+	display: block;
+	text-align: center;
+}
+.rabbbbb{
+	margin-bottom: 10px;
+}
+
+
+ }
+
+
+@media (min-width: 576px) and (max-width: 991px) { ... }
+
+
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px) { ... }
